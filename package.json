@@ -1,0 +1,20 @@
+{
+  "name": "thankstuesday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabrinaC043/ThanksTuesday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabrinaC043/ThanksTuesday/issues"
+  },
+  "homepage": "https://github.com/SabrinaC043/ThanksTuesday#readme"
+}
