@@ -7,8 +7,10 @@ import Home from "./pages/Home/Home";
 function App() {
 	return (
 		<div className="App">
-			<NavBar />
-			<Footer />
+			<PageChoiceProvider>
+				<NavBar />
+				<Footer />
+			</PageChoiceProvider>
 		</div>
 	);
 }
