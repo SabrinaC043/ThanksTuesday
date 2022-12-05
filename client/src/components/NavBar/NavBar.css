@@ -1,0 +1,11 @@
+.NavBarContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: grey;
+}
+
+.OptionBar {
+    display: flex;
+    justify-content: space-evenly;
+}
