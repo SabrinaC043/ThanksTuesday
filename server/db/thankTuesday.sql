@@ -4,4 +4,3 @@ DROP DATABASE IF EXISTS thankTuesday;
 
 CREATE DATABASE thankTuesday;
 
-USE thankTuesday;
