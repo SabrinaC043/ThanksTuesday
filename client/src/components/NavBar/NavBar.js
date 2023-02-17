@@ -9,9 +9,12 @@ export default function NavBar() {
 				<div className="CategoryList">
 					Categories:
 					<select>
-						<option>Lawn & Healthcare</option>
-						<option>Life Lessons</option>
-						<option>Placehoder</option>
+						<option>Outdoor Furniture</option>
+						<option>Kitchen</option>
+						<option>Organization & Storage</option>
+						<option>Living Room</option>
+						<option>Bedroom</option>
+						<option>Dining Room</option>
 					</select>
 				</div>
 				<div className="searchBar">
