@@ -4,7 +4,12 @@ import "./NavBar.css";
 export default function NavBar() {
 	return (
 		<div className="NavBarContainer">
-			<h1>Thank Tuesday</h1>
+			<h3>Welcome to the Store!</h3>
+			<ul>
+				<li>Home</li>
+
+			</ul>
+
 			<section className="OptionBar">
 				<div className="CategoryList">
 					Categories:
